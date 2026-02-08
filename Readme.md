@@ -93,10 +93,8 @@ This task focuses on containerizing the application using Docker, exposing requi
 ![](./Img/Task%202dockerfile.png)
 
 - Build the Docker image using the Dockerfile:
- 
 
-
-![](./Img/Task%202build%20image.png)
+![](./Img/Task%202%20build%20image.png)
 
 - Expose Required Port:
   
