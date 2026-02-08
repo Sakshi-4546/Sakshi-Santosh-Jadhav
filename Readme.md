@@ -227,10 +227,6 @@ Provide secure and reliable access to the deployed application using AWS network
 ![](./Img/Task%204access%20using%20elastic%20ip.png)
 
 
-- Access using route 53 Domain
-
-   For a production-like setup, a custom domain was configured using AWS Route 53
-
 ## Conclusion:
 
   This task successfully enables multiple methods to access the deployed application, ensuring flexibility, reliability, and production-ready networking using AWS best practices.
